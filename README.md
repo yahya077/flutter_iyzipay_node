@@ -1,4 +1,4 @@
-# flutteriyzipay
+# Flutter Iyzico Integration
 
 Flutter Iyzipay Integration
 
